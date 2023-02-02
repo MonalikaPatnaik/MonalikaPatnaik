@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MonalikaPatnaik
 - 👀 I’m interested in Web development and problem solving.
 - 🌱 I’m currently learning Reactjs and backend development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫Reach out to me on [Linkedin](https://www.linkedin.com/in/monalika-patnaik-b38931230).
 
 <!---
