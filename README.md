@@ -24,8 +24,13 @@
 ###
 
 <p align="left">I'm from India<br><br>- 🔭 I’m currently doing backend development.<br>-  👀 I’m looking to collaborate on open-source projects.<br>- 💞️ I love to eat and code.</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/monalika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monalika" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/monalika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monalika" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/monalika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="monalika" height="30" width="40" /></a>
+</p>
 
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -49,22 +54,21 @@
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monalikapatnaik" alt="monalikapatnaik" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/monalika" target="blank"><img src="https://img.shields.io/twitter/follow/monalika?logo=twitter&style=for-the-badge" alt="monalika" /></a> </p>
 
-<p align="left">
-</p>
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MonalikaPatnaik&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MonalikaPatnaik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monalikapatnaik&show_icons=true&locale=en&layout=compact" alt="monalikapatnaik" /></p>
 
-###
-<br clear="both">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monalikapatnaik&show_icons=true&locale=en" alt="monalikapatnaik" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monalikapatnaik&" alt="monalikapatnaik" /></p>
+
+
+
+<!-- <br clear="both"> -->
 
 <img src="https://raw.githubusercontent.com/MonalikaPatnaik/MonalikaPatnaik/output/snake.svg" alt="Snake animation" />
 
-###
 <!-- - 👋 Hi, I’m @MonalikaPatnaik
 - 👀 I’m interested in Web development and problem solving.
 - 🌱 I’m currently learning Reactjs and backend development.
