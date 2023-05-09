@@ -26,9 +26,9 @@
 <p align="left">I'm from India<br><br>- 🔭 I’m currently doing backend development.<br>-  👀 I’m looking to collaborate on open-source projects.<br>- 💞️ I love to eat and code.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/monalika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monalika" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/monalika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monalika" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/monalika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="monalika" height="30" width="40" /></a>
+<a href="https://twitter.com/MonalikaPatnaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monalika" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/monalika-patnaik-b38931230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monalika" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/MonalikaPatnaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="monalika" height="30" width="40" /></a>
 </p>
 
 
@@ -52,17 +52,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
 </div>
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monalikapatnaik" alt="monalikapatnaik" /></a> </p>
+<h3 align="left">My Stats</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monalikapatnaik&theme=dracula" alt="monalikapatnaik" /></a> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/monalika" target="blank"><img src="https://img.shields.io/twitter/follow/monalika?logo=twitter&style=for-the-badge" alt="monalika" /></a> </p>
  -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monalikapatnaik&show_icons=true&locale=en&layout=compact&theme=Radical&disable_animations=false" alt="monalikapatnaik" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monalikapatnaik&show_icons=true&locale=en&layout=compact&theme=radical&disable_animations=false" alt="monalikapatnaik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monalikapatnaik&show_icons=true&locale=en&theme=Radical&disable_animations=false" alt="monalikapatnaik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monalikapatnaik&show_icons=true&locale=en&theme=radical&disable_animations=false" alt="monalikapatnaik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monalikapatnaik&theme=Radical&disable_animations=false" alt="monalikapatnaik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monalikapatnaik&theme=radical&disable_animations=false" alt="monalikapatnaik" /></p>
 
 
 
@@ -94,7 +94,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monalikapatnaik&" alt="monalikapatnaik" /></p>
 
 
-<!---
-MonalikaPatnaik/MonalikaPatnaik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
