@@ -52,16 +52,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
 </div>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monalikapatnaik" alt="monalikapatnaik" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/monalika" target="blank"><img src="https://img.shields.io/twitter/follow/monalika?logo=twitter&style=for-the-badge" alt="monalika" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/monalika" target="blank"><img src="https://img.shields.io/twitter/follow/monalika?logo=twitter&style=for-the-badge" alt="monalika" /></a> </p>
+ -->
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monalikapatnaik&show_icons=true&locale=en&layout=compact&theme=Radical&disable_animations=false" alt="monalikapatnaik" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monalikapatnaik&show_icons=true&locale=en&layout=compact" alt="monalikapatnaik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monalikapatnaik&show_icons=true&locale=en&theme=Radical&disable_animations=false" alt="monalikapatnaik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monalikapatnaik&show_icons=true&locale=en" alt="monalikapatnaik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monalikapatnaik&" alt="monalikapatnaik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monalikapatnaik&theme=Radical&disable_animations=false" alt="monalikapatnaik" /></p>
 
 
 
