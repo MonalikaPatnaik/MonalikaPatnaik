@@ -33,7 +33,6 @@
 <p align="left">
 <a href="https://twitter.com/MonalikaPatnaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monalika" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/monalika-patnaik-b38931230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monalika" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/MonalikaPatnaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="monalika" height="30" width="40" /></a>
 </p>
 
 
