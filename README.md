@@ -27,7 +27,7 @@
 
 <p align="left">I'm from India<br><br>
   <img align="right" height="300" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" />
-  - 🔭 I’m currently learning Perl and Golang.<br>-  👀 I’m looking to collaborate on open-source projects.<br>- 💞️ I love to eat and code.</p>
+  - 🔭 I’m full stack web-developer and learning Golang currently.<br>-  👀 I’m looking to collaborate on open-source projects.<br>- 💞️ I love to eat and code.<br>- 😂I use Github in light mode.</p>
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
@@ -55,6 +55,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-plain-wordmark.svg" height="52" width="52" alt="nodejs logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" height="52" width="52" alt="mongodb logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" height="52" width="52" alt="mysql logo"  />
+  <img src="https://www.softaculous.com/website/images/webuzo/perl_logo.png" height="42" width="52" alt="perl logo"  />
+  
+</div>
+</div>
+</div>
 </div>
 <h3 align="left">🔥 My Stats</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monalikapatnaik&theme=dracula" alt="monalikapatnaik" /></a> </p>
