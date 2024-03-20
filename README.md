@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="190" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966"  />
+  <img height="190" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif"  />
 </div>
 
 ###
@@ -26,13 +26,13 @@
 ###
 
 <p align="left">I'm from India<br><br>
-  <img align="right" height="300" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" />
+  <img align="right" height="300" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*yBvA5CnEX3Sd4aod.gif" />
   - 🔭 I’m full stack web-developer and learning Golang currently.<br>-  👀 I’m looking to collaborate on open-source projects.<br>- 💞️ I love to eat and code.<br>- 😂 I use Github in light mode.</p>
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/MonalikaPatnaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monalika" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/monalika-patnaik-b38931230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monalika" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/monalika-patnaik-b38931230" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="monalika" height="30" width="40" /></a>
 </p>
 
 
